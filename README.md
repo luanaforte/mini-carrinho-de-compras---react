@@ -22,12 +22,12 @@ Este é um projeto simples de **Carrinho de Compras** desenvolvido com **React**
 
 2. Navegue até o diretório do projeto:
    ```bash
-  cd mini-carrinho-de-compras---react
+   cd mini-carrinho-de-compras---react
 
 3. Instale as dependências
    ```bash
-  npm install
+   npm install
 
 4. Execute o projeto:
-  ```bash
-  npm start
+   ```bash
+   npm start
